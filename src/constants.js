@@ -14,20 +14,7 @@ export const SkillsInfo = [
       { name: "Outreaching" },
       { name: "Competitive Analysis" },
       { name: "Sales Pipeline Management" },
-    ],
-  },
-  {
-    title: "Tools",
-    skills: [
       { name: "MS Office / GSuite" },
-      { name: "Cloud Platforms" },
-      { name: "Zapier" },
-      { name: "Hubspot / Zoho" },
-      { name: "Jira" },
-      { name: "MS Teams" },
-      { name: "Tableau / Power BI" },
-      { name: "LinkedIn Sales Navigator " },
-      { name: "Apollo.io" },
     ],
   },
 ];
