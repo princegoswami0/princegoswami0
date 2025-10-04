@@ -14,54 +14,48 @@ export const SkillsInfo = [
       { name: "Outreaching" },
       { name: "Competitive Analysis" },
       { name: "Sales Pipeline Management" },
-    ],
-  },
-  {
-    title: "Tools",
-    skills: [
       { name: "MS Office / GSuite" },
-      { name: "Cloud Platforms" },
-      { name: "Zapier" },
-      { name: "Hubspot / Zoho" },
-      { name: "Jira" },
-      { name: "MS Teams" },
-      { name: "Tableau / Power BI" },
-      { name: "LinkedIn Sales Navigator " },
-      { name: "Apollo.io" },
     ],
   },
+
 ];
 
 export const professionalProjects = [
   {
     id: 0,
-    title: "Local B2B Digital Sales & Client Acquisition Strategy",
+    title: "B2B Client Acquisition",
     company: "AdVats Digital Services",
     client: "Hotel Golden Swans",
     description: `
-Executed a full-cycle local B2B sales strategy, managing the workflow from prospecting → lead qualification → needs analysis → proposal → negotiation → contract closure → handoff.
-Focused on demonstrating solution selling, strategic thinking, and measurable business impact.
+Approached Hotel Golden Swans on behalf of AdVats Digital Services to sell digital services.
+Understood the hotel’s business challenges, including limited digital knowledge, budget constraints, and hesitations.
+Prepared a tailored proposal and conducted meetings to present solutions aligned with their needs.
+Managed negotiations and successfully closed the deal, gaining hands-on experience in consultative selling and client engagement.
     `,
-    challenges: [
-      "Client had minimal knowledge of digital marketing, faced budget limits, and decision-makers had differing priorities.",
-    ],
-    strategies: [
-      "Conducted in-depth research on the client’s business and competitors.",
-      "Educated the client on potential ROI and presented customized, phased solutions with measurable outcomes.",
-      "Built trust and secured commitment from the client.",
-    ],
-    workflow: [
-      "Geo-Targeted Lead Generation: Identified prospects via Google Maps, LinkedIn, and local directories.",
-      "Needs Assessment & Solution Design: Mapped services (SEO, SMM, Web Dev) to client needs and created ROI-focused proposals.",
-      "Conversion, Negotiation & Handoff: Managed discussions, addressed objections, closed the contract, and produced handoff documentation.",
-    ],
     achievements: [
-      "Validated a repeatable local acquisition workflow.",
-      "Demonstrated full-cycle solution selling and negotiation skills.",
-      "Delivered measurable business outcomes and client trust.",
+      "Developed practical exposure to end-to-end client handling and solution-based selling.",
+      "Learned consultative sales techniques and negotiation skills.",
+      "Built confidence in managing objections and tailoring services to client needs.",
+    ],
+  },
+  {
+    id: 1,
+    title: "Mock Inside Sales Strategy – SaaS Product",
+    company: "Academic Simulation",
+    client: "Education Domain SaaS Startup (Simulated)",
+    description: `
+Created a simulated sales workflow for a SaaS product entering the education sector.
+Conducted competitor research and prepared cold email templates for outreach.
+Practiced demo presentations and handled client objection scenarios.
+    `,
+    achievements: [
+      "Gained exposure to inside sales strategies for SaaS solutions.",
+      "Practiced prospect research, outreach communication, and demo pitching.",
+      "Improved skills in objection handling and structured client interactions.",
     ],
   },
 ];
+
 
 
 export const education = [
