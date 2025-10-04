@@ -25,9 +25,7 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                'Buisness Development Executive',
                 'Sales Executive',
-                "B2B Growth Executive"
                 // "Customer Support Representative"
               ]}
               speed={100}
@@ -41,11 +39,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-Results-driven professional skilled in market analysis, client needs assessment, and solution selling. Quick to master products, leverage CRM & BI tools, and design strategies that drive revenue growth and build lasting client relationships.
+Highly motivated and adaptable individual with strong communication, problem-solving, and interpersonal skills. Eager to contribute to organizational growth by delivering excellence in customer interaction and professional service. Committed to continuous learning and building a successful career with dedication and integrity.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1vkbcXzCPkLWlkzixl0b5u6MIoBMT6U16/view?usp=sharing"
+            href="https://drive.google.com/file/d/1AS7GYI6aH6mermCpTc0Z0mkms6LjrCHZ/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
